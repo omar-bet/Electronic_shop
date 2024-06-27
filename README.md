@@ -37,4 +37,4 @@
 - متصفح ويب حديث.
 
 # قم بزيارة الموقع من هنا
-visit_site:
+visit_site:https://omar-bet.github.io/Electronic_shop/
